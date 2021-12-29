@@ -1,2 +1,1 @@
-##Original Site theme
-This is the original site theme.
+## Do you wanat to learn more about Jesse GNU/Linux
