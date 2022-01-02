@@ -1,8 +1,7 @@
 theme: minima
-title: Jesse Portfolio
+title: Jesse GNU/Linux
 author: Jesse Richter
 email: justjesserichter@gmail.com
-description: A wonderful site
-github_username:  jesserichter
+#description: A wonderful site
 #to create post in main directory do 2021-month-day-title.md no space
 #to create tab in site do name_of_tab.md
